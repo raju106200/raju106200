@@ -1,10 +1,10 @@
 # 💫 About Me:
-👋 Hi, I'm Raju
-🤖 AI/ML Engineering Student
-🐍 Learning Python, exploring Machine Learning
-💻 Building projects to sharpen my skills
-🎬 Turning my AI journey into content
-🚀 Learning → Building → Improving
+👋 Hi, I'm Raju <br>
+🤖 AI/ML Engineering Student<br>
+🐍 Learning Python, exploring Machine Learning<br>
+💻 Building projects to sharpen my skills<br>
+🎬 Turning my AI journey into content<br>
+🚀 Learning → Building → Improving<br>
 
 
 ## 🌐 Socials:

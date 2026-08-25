@@ -1,5 +1,10 @@
 # 💫 About Me:
-# 👋 Hi, I'm Raju<br><br><br>🤖 AIML Engineering Student<br><br>🐍 Python Learner<br><br>🧠 Exploring Artificial Intelligence & Machine Learning<br><br>💻 Building projects & improving my coding skills<br><br>🎬 AI + Content Creation Enthusiast<br><br><br>🚀 Learning → Building → Improving
+👋 Hi, I'm Raju
+🤖 AI/ML Engineering Student
+🐍 Learning Python, exploring Machine Learning
+💻 Building projects to sharpen my skills
+🎬 Turning my AI journey into content
+🚀 Learning → Building → Improving
 
 
 ## 🌐 Socials:
